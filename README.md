@@ -17,7 +17,7 @@ I am passionate about data analysis and machine learning. With a background in E
 * Python
 
 **Data Science & Machine Learning:**
-* Pandas, CatBoost, Streamlit
+* Pandas, Numpy, MatPlotlib, CatBoost, Streamlit
 
 **Tools & Environments:**
 * Git, GitHub
