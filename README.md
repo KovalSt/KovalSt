@@ -25,8 +25,8 @@ I am passionate about data analysis and machine learning. With a background in E
 * Obsidian, Google Sheets
 
 **BI services:**
-*Power BI
-*Looker Studio
+* Power BI
+* Looker Studio
 
 ### 📫 How to Reach Me
 
