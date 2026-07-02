@@ -24,12 +24,9 @@ I am passionate about data analysis and machine learning. With a background in E
 * Linux (Ubuntu / WSL)
 * Obsidian, Google Sheets
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KovalSt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KovalSt&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+**BI services:**
+*Power BI
+*Looker Studio
 
 ### 📫 How to Reach Me
 
