@@ -30,7 +30,7 @@ I am passionate about data analysis and machine learning. With a background in E
 
 ### 📫 How to Reach Me
 
-* 📧 Email: [staskoval01.@gmail.com]
+- 📧 Email: [staskoval01@gmail.com](mailto:staskoval01@gmail.com)
 
 ---
 ⭐️ *Thanks for visiting my profile!*
