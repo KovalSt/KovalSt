@@ -27,13 +27,13 @@ I am passionate about data analysis and machine learning. With a background in E
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radium&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KovalSt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KovalSt&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ### 📫 How to Reach Me
 
-* 📧 Email: [staskoval01.gmail@email.com]
+* 📧 Email: [staskoval01.@gmail.com]
 
 ---
 ⭐️ *Thanks for visiting my profile!*
